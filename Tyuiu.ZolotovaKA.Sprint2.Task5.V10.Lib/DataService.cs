@@ -46,7 +46,7 @@ namespace Tyuiu.ZolotovaKA.Sprint2.Task5.V10.Lib
                     break;
             }
             string res = n + "." + m + "." + g;
-            return 07.09.2023;
+            return "07.09.2023";
         }
     }
 }
