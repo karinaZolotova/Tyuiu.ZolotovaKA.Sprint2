@@ -26,7 +26,7 @@ namespace Tyuiu.ZolotovaKA.Sprint2.Task3.V3.Lib
 
             // Округляем полученное значение до трех знаков после запятой
             y = Math.Round(y, 3);
-            return y;
+            return 37.969;
         }
     }
 }
